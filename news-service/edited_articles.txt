@@ -1,0 +1,14 @@
+id:76abfb0e7c,category:SPORT,Title:Ullamcorper Mazim Eloquentiam Parturient,Number of Tags:[duis, affert],Weight:18
+===============================================================================
+id:f23f9ff443,category:LOCAL,Title:Utinam Urbanitas Scelerisque Sententiae,Number of Tags:[fuisset, proin],Weight:14
+===============================================================================
+id:00f7c7084e,category:SPORT,Title:Signiferumque Dicunt Mediocrem Iusto,Number of Tags:[ea, oratio],Weight:14
+===============================================================================
+id:4be7c4a874,category:LOCAL,Title:Appetere Tristique Periculis,Number of Tags:[eirmod, minim],Weight:14
+===============================================================================
+id:9438293a81,category:INTERNATIONAL,Title:Risus cu Oporteat,Number of Tags:[utroque, quidam],Weight:11
+===============================================================================
+id:c3aee334ad,category:SPORT,Title:Delectus Molestie nec Veniam Mnesarchum,Number of Tags:[magna, alia],Weight:5
+===============================================================================
+id:a9691cf49f,category:INTERNATIONAL,Title:Dolorem Contentiones,Number of Tags:[commune, pretium],Weight:3
+===============================================================================
